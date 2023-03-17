@@ -82,10 +82,3 @@ Unutmayın ki her sosun kendine ait bir fiyatı ve değişken olarak her bir piz
 - Bir main fonksiyonu oluşturun. Bu fonksiyon önce menüyü ekrana yazdıracaktır. Ardından kullanıcının menüden bir pizza ve sos seçmesine imkan tanıyacaktır. Seçilen ürünlerin toplam fiyatını hesapladıktan sonra kullanıcıdan isim, TC kimlik numarası, kredi kartı numarası ve kredi kartı şifresi istemektedir. 
 - Veritabanı olarak adlandırdığımız "Orders_Database.csv" dosyasında pizzasını seçen ve kullanıcı adını, kullanıcı kimliğini, kredi kartı bilgilerini, sipariş açıklamasını, sipariş zamanını ve kredi kartı şifresini tutan bir tablo oluşturunuz
 
-
-## 7.Proje Teslimi
-
-- Proje için .ipynb veya .py uzantılı bir kod dosyası hazırlamanız projenizin çalışır durumda olması gerekiyor.
-- Hazırladığınız bu dosyaları bir GitHub reposuna eklemeniz ve bu reponun bağlantısını tarafınıza proje teslim günü iletilecek forma eklemeniz gerekiyor.
-- Projeler ekip olarak veya bireysel olarak yapılacaktır. Oluşturulan ekipler maksimum 5 kişiden oluşmalıdır.
-- Proje Teslim Tarihi: 13 Mart 2023 Saat 23:59
