@@ -85,12 +85,3 @@ Import datetime
  **NOTE:Don't forget that each sauce must have its own price and description of the pizzas as variables.**
 - Create a main function. This function will print the menu on the screen first. Then let the user choose a pizza and sauce from the menu. After calculating the total price of the selected products, it should ask the user for a name, ID number, credit card number and credit card password. with all required information 
 - Calculate the payments of the people who choose their pizza and keep the user's name, user id, credit card information, description of order, time order and credit card password in the "Orders_Database.csv" file, which we call the database.
-
-
-## 7.Project Delivery
-
-- For the project, you need to prepare a code file with the extension of .ipynb and run all the cells.
-- You need to add these files that you have prepared to a GitHub repo and add the link of this repo to the form that is given down below.
-- The project will be done as a team or individually. The teams created should be a maximum of 5 people.
-- You can send information about your project team via this form.
-
